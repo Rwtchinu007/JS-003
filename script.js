@@ -56,3 +56,8 @@ let typeOfA = typeof a; // returns the type of variable a
 arr1 = [1, 2, 3];
 // let isArray = arr1 instanceof Array; // returns true if arr1 is an instance of Array
 
+// nullish coalescing operator
+// ?? (fallback only when null or undefined)
+
+// optional chaining operator
+// ?. (to access nested object properties safely)   
